@@ -1,0 +1,4 @@
+service logo_updater /vendor/bin/logo_updater
+    class late_start
+    group system root
+    oneshot
