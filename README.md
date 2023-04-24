@@ -1,0 +1,19 @@
+## full_yk673v6_lwg62_64-user 11 RP1A.200720.011 p1k61v164bspP13 release-keys
+- Manufacturer: teracube
+- Platform: mt6765
+- Codename: Teracube_2e
+- Brand: Teracube
+- Flavor: full_zirconia-user
+- Release Version: 11
+- Kernel Version: 4.19.127
+- Id: RP1A.200720.011
+- Incremental: 202111011925
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Teracube/Teracube_2e/Teracube_2e:11/RP1A.200720.011/202111011925:user/release-keys
+- OTA version: 
+- Branch: full_yk673v6_lwg62_64-user-11-RP1A.200720.011-p1k61v164bspP13-release-keys
+- Repo: teracube_teracube_2e_dump
